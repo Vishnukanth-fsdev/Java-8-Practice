@@ -1,6 +1,4 @@
-package Category3;
-
-import java.util.UUID;
+package Function;
 
 // BiFunction<T, U, R> - Two inputs, R output
 @FunctionalInterface

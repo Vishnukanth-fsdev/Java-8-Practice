@@ -1,4 +1,4 @@
-package Category3;
+package Function;
 
 // Category 3: Functions - Accept Input, Return Output
 //Function<T, R> - T input, R output

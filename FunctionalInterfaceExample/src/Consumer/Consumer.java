@@ -1,4 +1,4 @@
-package Category1;
+package Consumer;
 
 
 // 3. Category 1: Consumers - Accept Input, Return Nothing

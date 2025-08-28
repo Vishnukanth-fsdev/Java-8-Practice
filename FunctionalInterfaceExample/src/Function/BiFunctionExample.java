@@ -1,4 +1,4 @@
-package Category3;
+package Function;
 
 import java.util.function.DoubleToIntFunction;
 import java.util.function.IntFunction;

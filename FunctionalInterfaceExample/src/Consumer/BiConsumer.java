@@ -1,4 +1,4 @@
-package Category1;
+package Consumer;
 
 public interface BiConsumer<T ,U> {
     void accept(T t,U u);
